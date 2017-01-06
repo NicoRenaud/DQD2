@@ -12,5 +12,13 @@ Many more options are available and can be printed by typing
 
 python imageProcess.py --help
 
+The code will generate a summary of the image processing similar to the one represented below
 
+![Alt text](image1.png?raw=true "Title")
 
+In addition the code will output an histogram of the size and aspect ratio distribution of the dots
+
+![Alt text](image2.png?raw=true "Title")
+
+The code is far from bullet proof but has been proven to be quite versatile thanks to 
+many options available
